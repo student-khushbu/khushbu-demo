@@ -1,4 +1,4 @@
 # khushbu-demo
 This is my first Git Repository
 <br>
-Author -Khushbu Shah
+Author -Khushbu Shah(khushbu)
